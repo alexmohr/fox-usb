@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "connectors")(type "Legacy")(uri "/home/mohalex/dev/public/fox/fox_usb/libs/connector_usb/Connector.lib")(options "")(descr ""))
+  (lib (name "fox_usb-rescue")(type "Legacy")(uri "${KIPRJMOD}/fox_usb-rescue.lib")(options "")(descr ""))
+)
